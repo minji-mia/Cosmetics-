@@ -6,7 +6,7 @@ then visualized ingredient similarity using a machine learning method called [t-
 ## Introduction
 
 <p>These days, because I wear a mask every day, skin problems are frequently occurring. For this, I want to try new cosmetics, but sometimes new attempts can worsen skin troubles. There's ingredient information behind cosmetics, but it's difficult to understand and what to avoid.</p>
-<p><center><img src="https://user-images.githubusercontent.com/52568892/106931546-52a02f80-66dc-11eb-9252-5b314d812215.png" width="600" height="400"></center></p>
+<center><img src="https://user-images.githubusercontent.com/52568892/106931546-52a02f80-66dc-11eb-9252-5b314d812215.png" width="600" height="400"></center>
 <p>To help with this, I created a content-based recommendation system in which content becomes a chemical component of cosmetics.</p>
 
 ## Built with
