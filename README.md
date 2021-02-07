@@ -22,3 +22,7 @@ then visualized ingredient similarity using a machine learning method called [t-
 - [Pandas](https://pandas.pydata.org/)
 - [Scikit-learn](https://scikit-learn.org/)
 - [Bokeh](https://bokeh.org/)
+
+## License
+
+This project is licensed under the [MIT](https://github.com/minji-mia/Cosmetics-analysis/blob/main/LICENSE) License
